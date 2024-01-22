@@ -65,7 +65,7 @@
           </v-row> 
         </v-col>
         <v-col cols="6">
-          <CodeEditor :answer="answer"></CodeEditor>
+          <CodeEditor></CodeEditor>
           
         </v-col>
       </v-row>
