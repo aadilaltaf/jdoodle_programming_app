@@ -5,8 +5,8 @@ import ApiService from '@/services/ApiService';
 
 export default createStore({
   state: {
-    clientId: '8235ccbb2949093c0be9914aa493ceb1',
-    clientSecret: '738d8bc709c5d3c8d812ada15367bddff938cdfd66e64db88f34980be0d2e705',
+    clientId: '',
+    clientSecret: '',
     // clientId: '',
     // clientSecret: '',
     selectedProblem: null,
