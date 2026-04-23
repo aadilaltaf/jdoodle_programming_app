@@ -1,6 +1,6 @@
-This app is an attempt to create an online coding editor + Problem bank app which can test the solution and provide the results.
-
 # jdoodle-programming-test-app
+
+This app is an attempt to create an online coding editor + Problem bank app which can test the solution and provide the results.
 
 ## Project setup
 ```
